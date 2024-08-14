@@ -79,7 +79,7 @@ Security Considerations
 -   **Password Management:** Avoid hardcoding your password directly in the script. Use environment variables or a password manager for better security.
 -   **Sensitive Information:** Ensure your script does not expose sensitive information in public repositories.
 
-Football Notes
+Foot Notes
 ----------------
 
 -   This script focuses on plain text content. You might need to modify the code to handle HTML content or attachments.
